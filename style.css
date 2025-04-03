@@ -1,0 +1,8 @@
+.custom-box{ 
+background-color: #000000;
+color: white;
+text-align: center;
+padding: 20px;
+/* border-radius: 5px; */
+border:#f0f0f0 solid 1px; 
+box-shadow : 0 4px 6px rgba(0,0,0,0.1);}
